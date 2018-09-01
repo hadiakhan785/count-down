@@ -1,6 +1,6 @@
 # count-down
 
-##Languages 
+## Languages 
 - Html (show on brwoser screen)
 - Javascript(for functionality)
 
